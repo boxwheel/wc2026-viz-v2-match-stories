@@ -10,3 +10,5 @@ CLAUDE.md
 FLYWHEEL_PRIMER.md
 bin/publish-repo
 *.zip
+.venv/
+data/raw/
